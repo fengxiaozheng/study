@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c1fd167-9bcf-4f04-bb79-9a7e5aa54b72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-framework" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1krAGYrOPANlMMy61MRgXLTgv2w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-framework/src/main/resources/META-INF" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.10693877" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lixw.sync" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-framework/src/main/resources/META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BeanInitDemo">
+    <configuration name="AnnotationApplicationContextAsIocContainerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lixw.springframework.ioc.container.AnnotationApplicationContextAsIocContainerDemo" />
+      <module name="spring-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixw.springframework.ioc.container.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationBeanDefinitionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lixw.springframework.bean.AnnotationBeanDefinitionDemo" />
+      <module name="spring-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixw.springframework.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanInitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lixw.springframework.bean.BeanInitDemo" />
+      <module name="spring-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixw.springframework.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanInstantiationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lixw.springframework.bean.BeanInstantiationDemo" />
+      <module name="spring-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixw.springframework.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialBeanInstantiationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lixw.springframework.bean.SpecialBeanInstantiationDemo" />
+      <module name="spring-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixw.springframework.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BeanInitDemo" />
+        <item itemvalue="Application.SpecialBeanInstantiationDemo" />
+        <item itemvalue="Application.BeanInstantiationDemo" />
+        <item itemvalue="Application.AnnotationBeanDefinitionDemo" />
+        <item itemvalue="Application.AnnotationApplicationContextAsIocContainerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c1fd167-9bcf-4f04-bb79-9a7e5aa54b72" name="Default Changelist" comment="" />
+      <created>1603267849511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603267849511</updated>
+      <workItem from="1603267852910" duration="9658000" />
+      <workItem from="1604363607882" duration="1424000" />
+      <workItem from="1604882178124" duration="5158000" />
+      <workItem from="1605145115116" duration="552000" />
+      <workItem from="1605486924958" duration="1244000" />
+      <workItem from="1605494117401" duration="10676000" />
+      <workItem from="1606091533427" duration="2420000" />
+      <workItem from="1606447252099" duration="486000" />
+      <workItem from="1606448245228" duration="418000" />
+      <workItem from="1606448684897" duration="1379000" />
+      <workItem from="1606697954488" duration="8602000" />
+      <workItem from="1607061033646" duration="1010000" />
+      <workItem from="1607242631104" duration="473000" />
+      <workItem from="1607306447121" duration="2969000" />
+      <workItem from="1608025721938" duration="1533000" />
+      <workItem from="1608599761896" duration="697000" />
+      <workItem from="1610092761742" duration="1766000" />
+      <workItem from="1610931104248" duration="1086000" />
+      <workItem from="1611708198243" duration="6012000" />
+      <workItem from="1612406848748" duration="10013000" />
+      <workItem from="1613955048420" duration="13097000" />
+      <workItem from="1614563471519" duration="1435000" />
+      <workItem from="1614733100981" duration="18505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="1" key="#Project_Structure" timestamp="1612253629622">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="200" y="1" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1612253629622" />
+    <state x="543" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614926792236">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="543" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1614926792236" />
+    <state x="606" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1614933046271">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="606" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1614933046271" />
+    <state width="1625" height="445" key="GridCell.Tab.0.bottom" timestamp="1614948967920">
+      <screen x="0" y="25" width="1680" height="958" />
+    </state>
+    <state width="1625" height="445" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1614945901985" />
+    <state width="1625" height="268" key="GridCell.Tab.0.bottom/0.25.1680.947@0.25.1680.947" timestamp="1607677497336" />
+    <state width="1625" height="268" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1607418893938" />
+    <state width="1625" height="445" key="GridCell.Tab.0.bottom/0.25.1680.958@0.25.1680.958" timestamp="1614948967920" />
+    <state width="1625" height="445" key="GridCell.Tab.0.center" timestamp="1614948967918">
+      <screen x="0" y="25" width="1680" height="958" />
+    </state>
+    <state width="1625" height="445" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1614945901984" />
+    <state width="1625" height="268" key="GridCell.Tab.0.center/0.25.1680.947@0.25.1680.947" timestamp="1607677497336" />
+    <state width="1625" height="268" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1607418893937" />
+    <state width="1625" height="445" key="GridCell.Tab.0.center/0.25.1680.958@0.25.1680.958" timestamp="1614948967918" />
+    <state width="1625" height="445" key="GridCell.Tab.0.left" timestamp="1614948967917">
+      <screen x="0" y="25" width="1680" height="958" />
+    </state>
+    <state width="1625" height="445" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1614945901983" />
+    <state width="1625" height="268" key="GridCell.Tab.0.left/0.25.1680.947@0.25.1680.947" timestamp="1607677497336" />
+    <state width="1625" height="268" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1607418893936" />
+    <state width="1625" height="445" key="GridCell.Tab.0.left/0.25.1680.958@0.25.1680.958" timestamp="1614948967917" />
+    <state width="1625" height="445" key="GridCell.Tab.0.right" timestamp="1614948967919">
+      <screen x="0" y="25" width="1680" height="958" />
+    </state>
+    <state width="1625" height="445" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1614945901984" />
+    <state width="1625" height="268" key="GridCell.Tab.0.right/0.25.1680.947@0.25.1680.947" timestamp="1607677497336" />
+    <state width="1625" height="268" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1607418893938" />
+    <state width="1625" height="445" key="GridCell.Tab.0.right/0.25.1680.958@0.25.1680.958" timestamp="1614948967919" />
+    <state width="1625" height="445" key="GridCell.Tab.1.bottom" timestamp="1614156973382">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1625" height="445" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1614156973382" />
+    <state width="1625" height="445" key="GridCell.Tab.1.center" timestamp="1614156973379">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1625" height="445" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1614156973379" />
+    <state width="1625" height="445" key="GridCell.Tab.1.left" timestamp="1614156973379">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1625" height="445" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1614156973379" />
+    <state width="1625" height="445" key="GridCell.Tab.1.right" timestamp="1614156973380">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1625" height="445" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1614156973380" />
+    <state width="1625" height="337" key="GridCell.Tab.2.bottom" timestamp="1612321280340">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1625" height="337" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1612321280340" />
+    <state width="1625" height="337" key="GridCell.Tab.2.center" timestamp="1612321280339">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1625" height="337" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1612321280339" />
+    <state width="1625" height="337" key="GridCell.Tab.2.left" timestamp="1612321280338">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1625" height="337" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1612321280338" />
+    <state width="1625" height="337" key="GridCell.Tab.2.right" timestamp="1612321280339">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1625" height="337" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1612321280339" />
+    <state x="232" y="24" key="SettingsEditor" timestamp="1612253650198">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="232" y="24" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1612253650198" />
+    <state x="232" y="47" key="SettingsEditor/0.25.1680.949@0.25.1680.949" timestamp="1608599856855" />
+    <state x="460" y="58" key="new project wizard" timestamp="1614822609922">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="460" y="58" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1614822609922" />
+    <state x="421" y="0" width="838" height="1129" key="search.everywhere.popup" timestamp="1614838924117">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="0" width="838" height="1129" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1614838924117" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.25.1680.960@0.25.1680.960" timestamp="1612254236118" />
+    <state x="286" y="141" key="spring file set editor" timestamp="1612679547862">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="286" y="141" key="spring file set editor/0.0.1680.1050@0.0.1680.1050" timestamp="1612679547862" />
+  </component>
+</project>

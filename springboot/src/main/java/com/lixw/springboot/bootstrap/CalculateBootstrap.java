@@ -1,0 +1,26 @@
+package com.lixw.springboot.bootstrap;
+
+import com.lixw.springboot.service.CalculateService;
+import org.springframework.boot.WebApplicationType;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+import org.springframework.context.ConfigurableApplicationContext;
+
+
+/**
+ * @author lixw
+ * @date 2021/02/24
+ */
+@SpringBootApplication(scanBasePackages = "com.lixw.springboot.service.impl")
+public class CalculateBootstrap {
+
+    public static void main(String[] args) {
+        ConfigurableApplicationContext context = new SpringApplicationBuilder(CalculateBootstrap.class)
+                .web(WebApplicationType.NONE)
+                .profiles("java8")
+                .run(args);
+        CalculateService bean = context.getBean(CalculateService.class);
+        System.out.println("bean:" + bean.sum(1,2,3,4,5,6,7,8,9,10));
+        context.close();
+    }
+}
