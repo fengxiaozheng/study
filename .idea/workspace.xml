@@ -23,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-framework" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -171,6 +171,7 @@
       <workItem from="1613955048420" duration="13097000" />
       <workItem from="1614563471519" duration="1435000" />
       <workItem from="1614733100981" duration="18505000" />
+      <workItem from="1614949622156" duration="379000" />
     </task>
     <servers />
   </component>
