@@ -16,4 +16,8 @@
 <!--            </util:list>-->
 <!--        </property>-->
     </bean>
+
+    <bean class="com.lixw.springframework.ioc.domain.UserHolder">
+        <property name="user" ref="user"/>
+    </bean>
 </beans>

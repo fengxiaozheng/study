@@ -8,16 +8,6 @@
 
     <import resource="dependency-lookup-context.xml"/>
 
-    <bean id="userRepository" class="com.lixw.springframework.ioc.dependency.repository.UserRepository" autowire="byType">
-<!--        <property name="users">-->
-<!--            <util:list>-->
-<!--                <ref bean="user"/>-->
-<!--                <ref bean="superUser"/>-->
-<!--            </util:list>-->
-<!--        </property>-->
-    </bean>
-
-    <bean class="com.lixw.springframework.ioc.domain.UserHolder">
-        <property name="user" ref="user"/>
+    <bean class="com.lixw.springframework.ioc.domain.UserHolder" autowire="byType">
     </bean>
 </beans>
